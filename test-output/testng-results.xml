@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Test" duration-ms="2175" started-at="2014-09-11T10:44:09Z" finished-at="2014-09-11T10:44:11Z">
+  <suite name="Test" duration-ms="1931" started-at="2014-09-12T09:45:11Z" finished-at="2014-09-12T09:45:13Z">
     <groups>
     </groups>
-    <test name="EP" duration-ms="2175" started-at="2014-09-11T10:44:09Z" finished-at="2014-09-11T10:44:11Z">
+    <test name="EP" duration-ms="1931" started-at="2014-09-12T09:45:11Z" finished-at="2014-09-12T09:45:13Z">
       <class name="com.atmecs.restful.executor.Controller">
-        <test-method status="PASS" signature="test()[pri:0, instance:com.atmecs.restful.executor.Controller@75a287d9]" name="test" duration-ms="1806" started-at="2014-09-11T16:14:09Z" finished-at="2014-09-11T16:14:11Z">
+        <test-method status="PASS" signature="test()[pri:0, instance:com.atmecs.restful.executor.Controller@65639ad4]" name="test" duration-ms="1804" started-at="2014-09-12T15:15:11Z" finished-at="2014-09-12T15:15:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method status="PASS" signature="test()[pri:0, instance:com.atmecs.restful.executor.Controller@3fa8402a]" name="test" duration-ms="1913" started-at="2014-09-11T16:14:09Z" finished-at="2014-09-11T16:14:11Z">
+        <test-method status="PASS" signature="test()[pri:0, instance:com.atmecs.restful.executor.Controller@3e66ee25]" name="test" duration-ms="1917" started-at="2014-09-12T15:15:11Z" finished-at="2014-09-12T15:15:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method status="PASS" signature="test()[pri:0, instance:com.atmecs.restful.executor.Controller@331fef77]" name="test" duration-ms="2163" started-at="2014-09-11T16:14:09Z" finished-at="2014-09-11T16:14:11Z">
+        <test-method status="PASS" signature="test()[pri:0, instance:com.atmecs.restful.executor.Controller@579cdf24]" name="test" duration-ms="1751" started-at="2014-09-12T15:15:11Z" finished-at="2014-09-12T15:15:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method status="PASS" signature="test()[pri:0, instance:com.atmecs.restful.executor.Controller@184f3e5]" name="test" duration-ms="2007" started-at="2014-09-11T16:14:09Z" finished-at="2014-09-11T16:14:11Z">
+        <test-method status="PASS" signature="test()[pri:0, instance:com.atmecs.restful.executor.Controller@6e4a084c]" name="test" duration-ms="1751" started-at="2014-09-12T15:15:11Z" finished-at="2014-09-12T15:15:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
