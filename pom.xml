@@ -29,8 +29,9 @@
 			<groupId>org.atmecs.Restful_Spring</groupId>
 			<artifactId>Restful_Spring</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
+			<type>jar</type>
 			<scope>system</scope>
-			<systemPath>${basedir}/Restful_Spring-0.0.1-SNAPSHOT.jar</systemPath>
+			<systemPath>/home/chetan/Desktop/Restful_Spring-0.0.1-SNAPSHOT.jar</systemPath>
 		</dependency>
 		<dependency>
 			<groupId>org.hamcrest</groupId>
