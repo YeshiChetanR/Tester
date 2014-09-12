@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Test" parallel="instances">
+	
+	<test name="EP">
+		<classes>
+			<class name="com.atmecs.restful.executor.FactoryTest"/>
+			<!-- <class name="com.atmecs.tester.App"/> -->
+		</classes>
+	</test>
+
+</suite> 

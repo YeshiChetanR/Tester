@@ -1,0 +1,74 @@
+{
+    "uri": "https://maps.googleapis.com/maps/api/geocode/json?address=Lanco Hills Office,Sai Aishwarya Layout, Manikonda, Hyderabad, Telangana500089,India",
+    "method": "GET",
+    "response type": "json",
+    "response body": {
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lanco Hills Office",
+               "short_name" : "Lanco Hills Office",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Sai Aishwarya Layout",
+               "short_name" : "Sai Aishwarya Layout",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Manikonda",
+               "short_name" : "Manikonda",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Hyderabad",
+               "short_name" : "Hyderabad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ranga Reddy",
+               "short_name" : "R.R. District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Telangana",
+               "short_name" : "Telangana",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "500089",
+               "short_name" : "500089",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lanco Hills Office, Sai Aishwarya Layout, Manikonda, Hyderabad, Telangana 500089, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 17.4114044,
+               "lng" : 78.3706883
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.4127533802915,
+                  "lng" : 78.37203728029151
+               },
+               "southwest" : {
+                  "lat" : 17.4100554197085,
+                  "lng" : 78.3693393197085
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+},
+    "status": "OK"
+}

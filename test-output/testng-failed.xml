@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Test]" parallel="instances">
+  <test name="EP(failed)" parallel="instances">
+    <classes>
+      <class name="com.atmecs.tester.App">
+        <methods>
+          <include name="main"/>
+        </methods>
+      </class> <!-- com.atmecs.tester.App -->
+    </classes>
+  </test> <!-- EP(failed) -->
+</suite> <!-- Failed suite [Test] -->

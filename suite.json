@@ -1,0 +1,18 @@
+{
+    "SANITY": [
+        {
+            "TC1": "TestCase1.json"
+        },
+        {
+            "TC2": "TestCase2.json"
+        },
+        {
+            "TC3": "TestCase3.json"
+        },
+        {
+            "TC4": "TestCase3.json"
+        }
+        
+       
+    ]
+}
